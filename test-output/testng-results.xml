@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="8" total="19" passed="11">
+  <reporter-output>
+    <line>
+      <![CDATA[System has successfully moved to https://blazedemo.com/ successfully]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "Travel The World Page"  Actual::: System successfully navigated to "Travel The World Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should select departure as : Portland  Actual::: System successfully selected departure as : Portland<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should select destination as : Buenos Aires  Actual::: System successfully selected departure as : Buenos Aires<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System has successfully selected Find Flights  Actual::: System has successfully selected Find Flights<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "Choose Flights Page"  Actual::: System successfully navigated to "Choose Flights Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to the correct Flight Selection Page  Actual::: System has successfully navigated to the correct Flight Selection Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should choose flight and moved to Reserved Page   Actual::: System successfully choosen flight and moved to Reserved Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "BlazeDemo_Registration Page"  Actual::: System successfully navigated to "BlazeDemo_Registration Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should fill the registration form  Actual::: System successfully fill the registration form<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+    <line>
+      <![CDATA[ Expected:::System should navigate to "BlazeDemo_Login Page"  Actual::: System successfully navigated to "BlazeDemo_Login Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201821804.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201821804.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Project Suite" duration-ms="35420" started-at="2021-05-28T17:06:27 IST" finished-at="2021-05-28T17:07:02 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35420" started-at="2021-05-28T17:06:27 IST" finished-at="2021-05-28T17:07:02 IST">
+      <class name="com.projectname.scripts.BlazeDemo_Login_Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-28T17:06:55 IST" finished-at="2021-05-28T17:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd]" name="beforeMethod" is-config="true" duration-ms="25" started-at="2021-05-28T17:06:55 IST" finished-at="2021-05-28T17:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Login_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd]" name="BlazeDemo_Login_Test01" duration-ms="6700" started-at="2021-05-28T17:06:55 IST" description="Navigate To BlazeDemo Login Page" finished-at="2021-05-28T17:07:01 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "BlazeDemo_Login Page"  Actual::: System successfully navigated to "BlazeDemo_Login Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201821804.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201821804.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Login_Test01 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd]" name="afterMethod" is-config="true" duration-ms="13" started-at="2021-05-28T17:07:01 IST" finished-at="2021-05-28T17:07:02 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Login_Test01 status=SUCCESS method=BlazeDemo_Login_Test.BlazeDemo_Login_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd] output= Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201820624.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Login_Test@26aa12dd]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-05-28T17:07:02 IST" finished-at="2021-05-28T17:07:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.projectname.scripts.BlazeDemo_Login_Test -->
+      <class name="com.projectname.scripts.BlazeDemo_Travel_World_Test">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeSuite" is-config="true" duration-ms="76" started-at="2021-05-28T17:06:27 IST" finished-at="2021-05-28T17:06:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeTest" is-config="true" duration-ms="13844" started-at="2021-05-28T17:06:27 IST" finished-at="2021-05-28T17:06:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[System has successfully moved to https://blazedemo.com/ successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-28T17:06:41 IST" finished-at="2021-05-28T17:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="70" started-at="2021-05-28T17:06:41 IST" finished-at="2021-05-28T17:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Travel_World_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_Travel_World_Test01" duration-ms="618" started-at="2021-05-28T17:06:41 IST" description="Verifying Landing to Travel The World" finished-at="2021-05-28T17:06:41 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "Travel The World Page"  Actual::: System successfully navigated to "Travel The World Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Travel_World_Test01 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="57" started-at="2021-05-28T17:06:41 IST" finished-at="2021-05-28T17:06:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Travel_World_Test01 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should navigate to "Travel The World Page"  Actual::: System successfully navigated to "Travel The World Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201801563.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="35" started-at="2021-05-28T17:06:41 IST" finished-at="2021-05-28T17:06:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Travel_World_Test02()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_Travel_World_Test02" duration-ms="710" started-at="2021-05-28T17:06:41 IST" description="Verifying selection of departure city" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test01" finished-at="2021-05-28T17:06:42 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should select departure as : Portland  Actual::: System successfully selected departure as : Portland<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Travel_World_Test02 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="41" started-at="2021-05-28T17:06:42 IST" finished-at="2021-05-28T17:06:42 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Travel_World_Test02 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test02()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should select departure as : Portland  Actual::: System successfully selected departure as : Portland<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201802373.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="37" started-at="2021-05-28T17:06:42 IST" finished-at="2021-05-28T17:06:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Travel_World_Test03()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_Travel_World_Test03" duration-ms="511" started-at="2021-05-28T17:06:42 IST" description="Verifying selection of destination city" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test02" finished-at="2021-05-28T17:06:43 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should select destination as : Buenos Aires  Actual::: System successfully selected departure as : Buenos Aires<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Travel_World_Test03 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="26" started-at="2021-05-28T17:06:43 IST" finished-at="2021-05-28T17:06:43 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Travel_World_Test03 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test03()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should select destination as : Buenos Aires  Actual::: System successfully selected departure as : Buenos Aires<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201803031.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="20" started-at="2021-05-28T17:06:43 IST" finished-at="2021-05-28T17:06:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Travel_World_Test04()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_Travel_World_Test04" duration-ms="1188" started-at="2021-05-28T17:06:43 IST" description="Finding Flights" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test03" finished-at="2021-05-28T17:06:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System has successfully selected Find Flights  Actual::: System has successfully selected Find Flights<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Travel_World_Test04 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="25" started-at="2021-05-28T17:06:44 IST" finished-at="2021-05-28T17:06:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Travel_World_Test04 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test04()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System has successfully selected Find Flights  Actual::: System has successfully selected Find Flights<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804305.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="19" started-at="2021-05-28T17:06:44 IST" finished-at="2021-05-28T17:06:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Travel_World_Test05()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_Travel_World_Test05" duration-ms="277" started-at="2021-05-28T17:06:44 IST" description="Verifying Landing to Choose Flight Page" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test04" finished-at="2021-05-28T17:06:44 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "Choose Flights Page"  Actual::: System successfully navigated to "Choose Flights Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Travel_World_Test05 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="28" started-at="2021-05-28T17:06:44 IST" finished-at="2021-05-28T17:06:44 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Travel_World_Test05 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test05()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should navigate to "Choose Flights Page"  Actual::: System successfully navigated to "Choose Flights Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201804653.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="23" started-at="2021-05-28T17:06:44 IST" finished-at="2021-05-28T17:06:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_CheckFlights_Test06()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_CheckFlights_Test06" duration-ms="387" started-at="2021-05-28T17:06:44 IST" description="Verifying selection of any flight" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_Travel_World_Test05" finished-at="2021-05-28T17:06:45 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to the correct Flight Selection Page  Actual::: System has successfully navigated to the correct Flight Selection Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_CheckFlights_Test06 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="25" started-at="2021-05-28T17:06:45 IST" finished-at="2021-05-28T17:06:45 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_CheckFlights_Test06 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_CheckFlights_Test06()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should navigate to the correct Flight Selection Page  Actual::: System has successfully navigated to the correct Flight Selection Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201805012.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="22" started-at="2021-05-28T17:06:45 IST" finished-at="2021-05-28T17:06:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_CheckFlights_Test07()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="BlazeDemo_CheckFlights_Test07" duration-ms="1102" started-at="2021-05-28T17:06:45 IST" description="Verifying selection of destination city" depends-on-methods="com.projectname.scripts.BlazeDemo_Travel_World_Test.BlazeDemo_CheckFlights_Test06" finished-at="2021-05-28T17:06:46 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should choose flight and moved to Reserved Page   Actual::: System successfully choosen flight and moved to Reserved Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_CheckFlights_Test07 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterMethod" is-config="true" duration-ms="28" started-at="2021-05-28T17:06:46 IST" finished-at="2021-05-28T17:06:46 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_CheckFlights_Test07 status=SUCCESS method=BlazeDemo_Travel_World_Test.BlazeDemo_CheckFlights_Test07()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799] output= Expected:::System should choose flight and moved to Reserved Page   Actual::: System successfully choosen flight and moved to Reserved Page <div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201806139.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-05-28T17:06:46 IST" finished-at="2021-05-28T17:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterTest" is-config="true" duration-ms="683" started-at="2021-05-28T17:07:02 IST" finished-at="2021-05-28T17:07:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.projectname.scripts.BlazeDemo_Travel_World_Test@1c3a4799]" name="afterSuite" is-config="true" duration-ms="1" started-at="2021-05-28T17:07:02 IST" finished-at="2021-05-28T17:07:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.projectname.scripts.BlazeDemo_Travel_World_Test -->
+      <class name="com.projectname.scripts.BlazeDemo_Home_Test">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="beforeMethod" is-config="true" duration-ms="27" started-at="2021-05-28T17:06:46 IST" finished-at="2021-05-28T17:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-28T17:06:46 IST" finished-at="2021-05-28T17:06:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="BlazeDemo_Home_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="BlazeDemo_Home_Test01" duration-ms="2729" started-at="2021-05-28T17:06:46 IST" description="Navigate To BlazeDemo Home Page" finished-at="2021-05-28T17:06:49 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Home_Test01 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="afterMethod" is-config="true" duration-ms="19" started-at="2021-05-28T17:06:49 IST" finished-at="2021-05-28T17:06:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Home_Test01 status=SUCCESS method=BlazeDemo_Home_Test.BlazeDemo_Home_Test01()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2] output= Expected:::System should navigate to "BlazeDemo_HomePage Page"  Actual::: System successfully navigated to "BlazeDemo_HomePage Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201809036.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="beforeMethod" is-config="true" duration-ms="24" started-at="2021-05-28T17:06:49 IST" finished-at="2021-05-28T17:06:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Home_Test02()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="BlazeDemo_Home_Test02" duration-ms="2112" started-at="2021-05-28T17:06:49 IST" description="Navigate To Registration Page" depends-on-methods="com.projectname.scripts.BlazeDemo_Home_Test.BlazeDemo_Home_Test01" finished-at="2021-05-28T17:06:51 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should navigate to "BlazeDemo_Registration Page"  Actual::: System successfully navigated to "BlazeDemo_Registration Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Home_Test02 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="afterMethod" is-config="true" duration-ms="25" started-at="2021-05-28T17:06:51 IST" finished-at="2021-05-28T17:06:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Home_Test02 status=SUCCESS method=BlazeDemo_Home_Test.BlazeDemo_Home_Test02()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2] output= Expected:::System should navigate to "BlazeDemo_Registration Page"  Actual::: System successfully navigated to "BlazeDemo_Registration Page"<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201811023.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="beforeMethod" is-config="true" duration-ms="17" started-at="2021-05-28T17:06:51 IST" finished-at="2021-05-28T17:06:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="BlazeDemo_Home_Test03()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="BlazeDemo_Home_Test03" duration-ms="3848" started-at="2021-05-28T17:06:51 IST" description="Fill The Registration Page" depends-on-methods="com.projectname.scripts.BlazeDemo_Home_Test.BlazeDemo_Home_Test02" finished-at="2021-05-28T17:06:55 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ Expected:::System should fill the registration form  Actual::: System successfully fill the registration form<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BlazeDemo_Home_Test03 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="afterMethod" is-config="true" duration-ms="15" started-at="2021-05-28T17:06:55 IST" finished-at="2021-05-28T17:06:55 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=BlazeDemo_Home_Test03 status=SUCCESS method=BlazeDemo_Home_Test.BlazeDemo_Home_Test03()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2] output= Expected:::System should fill the registration form  Actual::: System successfully fill the registration form<div><a HREF='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg'><img src='D:\Preqin-WorkSpace\MInterview\target\screenshots\1622201815055.jpg' alt='Screen Shot' style='width:250px;height:200px'></a></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.projectname.scripts.BlazeDemo_Home_Test@131276c2]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-05-28T17:06:55 IST" finished-at="2021-05-28T17:06:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.projectname.scripts.BlazeDemo_Home_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Project Suite -->
+</testng-results>

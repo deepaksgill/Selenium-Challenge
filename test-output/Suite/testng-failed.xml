@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.projectname.reporting.ExtentTestNGIReporterListener"/>
+    <listener class-name="com.projectname.framework.RetryListenerClass"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browserName" value="CHROME"/>
+    <classes>
+      <class name="com.projectname.scripts.Travel_World_Test">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="TravelWorld_Test05"/>
+          <include name="CheckFlights_Test06"/>
+          <include name="beforeTest"/>
+          <include name="TravelWorld_Test04"/>
+          <include name="afterSuite"/>
+          <include name="TravelWorld_Test01"/>
+          <include name="TravelWorld_Test03"/>
+          <include name="TravelWorld_Test02"/>
+          <include name="CheckFlights_Test07"/>
+          <include name="afterClass"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- com.projectname.scripts.Travel_World_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
